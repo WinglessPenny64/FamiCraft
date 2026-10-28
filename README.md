@@ -15,22 +15,22 @@ rules for FamiCraft if you want to contribute
 
 themes planned
 
-ground - plains
-underground - caves
-underwater - ocean
-castle - nether fortress 
+1. ground - plains
+2. underground - caves
+3. underwater - ocean
+4. castle - nether fortress 
 
-desert - desert
-beach - beach/sugar cane
-snow - tundra
-garden - birch forest
-forest - dark oak forest
-mountain - mountain 
-autumn - dapple forest
-sky - aether?
-volcano - nether
-underwater castle - ocean monument 
-ghost house - woodland mansion
-pipeland - stronghold
-bonus - village
-airship - end city 
+5. desert - desert
+6. beach - beach/sugar cane
+7. snow - tundra
+8. garden - birch forest
+9. forest - dark oak forest
+10. mountain - mountain 
+11. autumn - dapple forest
+12. sky - aether?
+13. volcano - nether
+14. underwater castle - ocean monument 
+15. ghost house - woodland mansion
+16. pipeland - stronghold
+17. bonus - village
+18. airship - end city 
