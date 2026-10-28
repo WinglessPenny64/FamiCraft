@@ -1,0 +1,15 @@
+{
+	"animations": {
+		"Rise": {
+			"frames": [[0, 0, 24, 24]],
+			"speed": 5,
+			"loop": true
+		},
+		"Fall": {
+			"frames": [[24, 0, 24, 24]],
+			"speed": 5,
+			"loop": true
+		}
+	},
+	"variations": {"source": "Blooper.png"}
+}

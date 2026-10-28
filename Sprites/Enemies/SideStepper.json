@@ -1,0 +1,22 @@
+{
+	"properties": {"can_turn": true},
+	"animations": {
+		"Walk": {
+			"frames": [
+				[0, 0, 24, 16],
+				[24, 0, 24, 16]
+			],
+			"speed": 10,
+			"loop": true
+		},
+		"Angry": {
+			"frames": [
+				[0, 16, 24, 16],
+				[24, 16, 24, 16]
+			],
+			"speed": 15,
+			"loop": true
+		}
+	},
+	"variations": {"source": "SideStepper.png"}
+}

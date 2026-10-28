@@ -1,0 +1,26 @@
+{
+	"animations": {
+		"Idle": {
+			"frames": [
+			[0, 0, 24, 32],
+			[24, 0, 24, 32],
+			],
+			"speed": 5,
+			"loop": true
+		},
+		"Look": {
+			"frames": [
+			[0, 0, 24, 32],
+			[24, 0, 24, 32],
+			],
+			"speed": 3,
+			"loop": true
+		},
+		"Fall": {
+			"frames": [[48, 0, 24, 32]],
+			"speed": 5,
+			"loop": true
+		}
+	},
+	"variations": {"source": "Thwomp.png"}
+}

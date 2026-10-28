@@ -1,0 +1,18 @@
+{
+	"animations": {
+		"Idle": {
+			"frames": [[0, 0, 24, 32]],
+			"speed": 5,
+			"loop": true
+		},
+		"Throw": {
+			"frames": [
+			[24, 0, 24, 32],
+			[48, 0, 24, 32]
+			],
+			"speed": 5,
+			"loop": true
+		}
+	},
+	"variations": {"source": "Lakitu.png"}
+}

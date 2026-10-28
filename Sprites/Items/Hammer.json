@@ -1,0 +1,15 @@
+{
+	"properties": {
+		"can_rotate": false,
+		"play_sfx": false
+	},
+	"animations": {
+		"default": {
+			"frames": [[0, 0, 8, 16]],
+			"speed": 5,
+			"loop": true
+		},
+		"Hold": {"link": "default"}
+	},
+	"variations": {"source": "Hammer.png"}
+}

@@ -1,0 +1,12 @@
+{
+	"properties": {
+		"star_offset_x": 0,
+		"star_offset_y": 0
+	},
+	"variations": {
+			"SMB1": {"source": "TitleSMB1.png"},
+			"SMBLL": {"source": "TitleSMBLL.png",},
+			"SMBS": {"source": "TitleSMBS.png"},
+			"SMBANN": {"source": "TitleSMBANN.png"}
+			}
+}

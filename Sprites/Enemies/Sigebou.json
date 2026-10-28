@@ -1,0 +1,17 @@
+{
+	"animations": {
+		"default": {
+			"frames": [
+				[0, 0, 24, 24],
+				[24, 0, 24, 24],
+				[48, 0, 24, 24]
+			],
+			"speed": 5,
+			"loop": true
+		}
+	},
+	"variations": {
+			"source": "Sigebou.png",
+			"rect": [0, 0, 72, 24]
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"animations": {
+		"Fly": {
+			"frames": [
+				[0, 0, 24, 16],
+				[24, 0, 24, 16]
+			],
+			"speed": 15,
+			"loop": true
+		},
+		"Idle": {
+			"frames": [[0, 0, 24, 16]],
+			"speed": 5,
+			"loop": true
+		}
+	},
+	"variations": {
+			"source": "FighterFly.png",
+			"rect": [0, 0, 48, 16]
+	}
+}

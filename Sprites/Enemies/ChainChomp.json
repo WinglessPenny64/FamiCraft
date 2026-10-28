@@ -1,0 +1,13 @@
+{
+	"animations": {
+		"default": {
+			"frames": [
+				[0, 0, 24, 16],
+				[24, 0, 24, 16]
+			],
+			"speed": 10,
+			"loop": true
+		}
+	},
+	"variations": {"source": "ChainChomp.png"}
+}

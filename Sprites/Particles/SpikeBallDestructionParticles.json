@@ -1,0 +1,14 @@
+{
+	"variations": {
+		"choices": [
+				{
+					"source": "SpikeBallDestructionParticles.png",
+					"rect": [0, 0, 8, 8]
+				},
+				{
+					"source": "SpikeBallDestructionParticles.png",
+					"rect": [0, 8, 8, 8]
+				}
+		]
+	}
+}

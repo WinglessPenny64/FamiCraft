@@ -1,0 +1,38 @@
+{
+	"animations": {
+		"Idle": {
+			"frames": [[0, 0, 16, 32]],
+			"speed": 5,
+			"loop": true
+		},
+		"Open": {
+			"frames": [
+				[0, 0, 16, 32],
+				[16, 0, 16, 32],
+				[32, 0, 16, 32]
+			],
+			"speed": 10,
+			"loop": false
+		},
+		"Close": {
+			"frames": [
+				[32, 0, 16, 32],
+				[16, 0, 16, 32],
+				[0, 0, 16, 32]
+			],
+			"speed": 15,
+			"loop": false
+		}
+	},
+	"variations": {
+			"SMB1": {
+				"source": "Doors.png",
+				"rect": [0, 0, 64, 32]
+			},
+			"SMBLL": {
+				"source": "LLDoors.png",
+				"rect": [0, 0, 64, 32]
+			},
+			"SMBANN": {"link": "SMBLL"}
+	}
+}

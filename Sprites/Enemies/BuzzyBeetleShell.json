@@ -1,0 +1,35 @@
+{
+	"properties": {
+		"can_turn": true,
+		"flipped_offset": [0, 1]
+	},
+	"animations": {
+		"Idle": {
+			"frames": [[16, 0, 16, 16]],
+			"speed": 5,
+			"loop": true
+		},
+		"Spin": {
+			"frames": [
+				[16, 0, 16, 16],
+				[32, 0, 16, 16],
+				[48, 0, 16, 16],
+				[64, 0, 16, 16]
+			],
+			"speed": 15,
+			"loop": true
+		},
+		"Wake": {
+			"frames": [
+				[0, 0, 16, 16],
+				[16, 0, 16, 16]
+			],
+			"speed": 5,
+			"loop": true
+		}
+	},
+	"variations": {
+			"source": "BuzzyBeetle.png",
+			"rect": [32, 0, 80, 16]
+		}
+}

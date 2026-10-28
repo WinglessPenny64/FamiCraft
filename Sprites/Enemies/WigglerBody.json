@@ -1,0 +1,21 @@
+{
+	"animations": {
+		"Normal": {
+			"frames": [
+				[0, 0, 24, 24],
+				[24, 0, 24, 24]
+			],
+			"speed": 8,
+			"loop": true
+		},
+		"Angry": {
+			"frames": [
+				[0, 24, 24, 24],
+				[24, 24, 24, 24]
+			],
+			"speed": 10,
+			"loop": true
+		}
+	},
+	"variations": {"source": "WigglerBody.png"}
+}

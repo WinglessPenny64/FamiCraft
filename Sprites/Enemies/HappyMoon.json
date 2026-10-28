@@ -1,0 +1,29 @@
+{
+	"animations": {
+		"Idle": {
+			"frames": [
+				[32, 0, 32, 32],
+				[0, 0, 32, 32]
+			],
+			"speed": 5,
+			"loop": false
+		},
+		"Charge": {
+			"frames": [
+				[32, 0, 32, 32],
+				[0, 0, 32, 32]
+			],
+			"speed": 10,
+			"loop": false
+		},
+		"Dive": {
+			"frames": [
+				[32, 0, 32, 32],
+				[0, 0, 32, 32]
+			],
+			"speed": 5,
+			"loop": true
+		}
+	},
+	"variations": {"source": "HappyMoon.png"}
+}
