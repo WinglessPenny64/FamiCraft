@@ -27,6 +27,22 @@
 			"Small": {},
 			"Big": {},
 			"Fire": {}
+		},
+		
+		"POWER_PARAMETERS": {
+           		 "Fire": {
+					"PROJ_TYPE": "res://Scenes/Prefabs/Entities/Objects/WrenchProjectile",
+					"MAX_PROJ_COUNT": 3,
+					"PROJ_LIFETIME": 2.5,
+					"PROJ_GRAVITY": 1.5,
+					"PROJ_SPEED": [200.0, 0.0],
+					"PROJ_GROUND_BOUNCE": false,
+					"PROJ_WALL_BOUNCE": false,
+					"PROJ_CEIL_BOUNCE": false,
+					"PROJ_PIERCE_COUNT": 5,
+					"PROJ_BOUNCE_COUNT": 1
+         		   }
 		}
+		
 	}
 }
