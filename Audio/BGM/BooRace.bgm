@@ -1,7 +1,7 @@
 {
 	"Normal": {
 		"source": "BooRace.mp3",
-		"loop": 3.197
+		"loop": 0.000
 	},
 	"Hurry": {
 		"source": "BooRaceHurry.mp3",

@@ -1,5 +1,5 @@
 {
-	"name": "CHAR_MARIO",
+	"name": "Steve",
 	"physics": {
 		"PHYSICS_PARAMETERS": {
 			"Default": {},
@@ -41,6 +41,18 @@
 					"PROJ_CEIL_BOUNCE": false,
 					"PROJ_PIERCE_COUNT": 5,
 					"PROJ_BOUNCE_COUNT": 1
+         		   },
+				   
+				 "Superball": {
+					"MAX_PROJ_COUNT": 2,
+					"PROJ_LIFETIME": 2.5,
+					"PROJ_GRAVITY": 1.5,
+					"PROJ_SPEED": [200.0, 0.0],
+					"PROJ_GROUND_BOUNCE": true,
+					"PROJ_WALL_BOUNCE": true,
+					"PROJ_CEIL_BOUNCE": false,
+					"PROJ_PIERCE_COUNT": 5,
+					"PROJ_BOUNCE_COUNT": 2
          		   }
 		}
 		
