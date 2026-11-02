@@ -4,7 +4,9 @@
 		"PHYSICS_PARAMETERS": {
 			"Default": {},
 			"Small": {},
-			"Big": {},
+			"Big": {
+				"COLLISION_SIZE": [8, 20]
+			},
 			"Fire": {}
 		},
 		"CLASSIC_PARAMETERS": {
