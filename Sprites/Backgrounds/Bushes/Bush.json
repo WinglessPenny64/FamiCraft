@@ -35,9 +35,8 @@
 			}
 		},
 		"Jungle": {
-			"SMB1": {"source": "JungleBush.png"},
-			"SMBLL": {"source": "JungleBushLL.png"},
-			"SMBANN": {"source": "JungleBushANN.png"}
+			"Day": {"source": "JungleBush.png"},
+			"Night": {"source": "JungleBushNight.png"}
 		},
 		"Beach": {
 			"SMB1": {

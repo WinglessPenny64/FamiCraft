@@ -17,5 +17,14 @@
 			"loop": false
 		}
 	},
-	"variations": {"source": "CheckpointFlag.png"}
+	"variations": {
+		"default": {
+			"source": "CheckpointFlag.png",
+			"rect": [0, 0, 128, 32]
+			},
+		"Castle": {
+			"source": "CheckpointFlag.png",
+			"rect": [0, 32, 128, 32]
+			}
+	}
 }

@@ -4,7 +4,8 @@
 			"source": "Sign.png",
 			"rect": [0, 0, 96, 96]
 		},
-		"Underground": {
+		"Underground": {"link": "Snow"},
+		"Desert": {
 			"source": "Sign.png",
 			"rect": [96, 0, 96, 96]
 		},
