@@ -7,7 +7,9 @@
 			"Big": {
 				"COLLISION_SIZE": [8, 20]
 			},
-			"Fire": {}
+			"Fire": {
+				"COLLISION_SIZE": [8, 20]
+			}
 		},
 		"CLASSIC_PARAMETERS": {
 			"Default": {},

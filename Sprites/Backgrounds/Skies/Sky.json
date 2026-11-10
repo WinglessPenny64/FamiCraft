@@ -42,20 +42,6 @@
 			"default": {
 				"source": "NightStars.png",
 			},
-			"Snow": {
-				"source": "SnowNightStars.png",
-				"properties": {"sky_scroll_speed": 0},
-				"animations": {
-					"default": {
-						"frames": [
-							[0, 0, 512, 512],
-							[512, 0, 512, 512]
-						],
-						"speed": 5,
-						"loop": true
-					}
-				}
-			},
 			"Space": {
 				"source": "SpaceStars.png",
 				"properties": {"sky_scroll_speed": 0},
