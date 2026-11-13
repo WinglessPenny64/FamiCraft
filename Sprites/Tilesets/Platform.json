@@ -1,7 +1,3 @@
 {
-	"variations": {
-		"SMB1": {"source": "Platform.png"},
-		"SMBLL": {"source": "LLPlatform.png"},
-		"SMBANN": {"link": "SMBLL"}
-	}
+	"variations": {"source": "Platform.png"}
 }

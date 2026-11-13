@@ -4,8 +4,15 @@
 		"PHYSICS_PARAMETERS": {
 			"Default": {},
 			"Small": {},
-			"Big": {},
-			"Fire": {}
+			"Big": {
+				"COLLISION_SIZE": [8, 20]
+			},
+			"Fire": {
+				"COLLISION_SIZE": [8, 20]
+			},
+			"Superball": {
+				"COLLISION_SIZE": [8, 20]
+			},
 		},
 		"CLASSIC_PARAMETERS": {
 			"Default": {
@@ -46,9 +53,49 @@
 		},
 		"COSMETIC_PARAMETERS": {
 			"Default": {},
-			"Small": {},
-			"Big": {},
-			"Fire": {}
+			"Small": {
+				"WING_OFFSET": [2.0, 8.0],
+				"HAMMER_OFFSET": [1.0, -4.0]
+			},
+			"Big": {
+				"WING_OFFSET": [4.0, 5.0],
+				"HAMMER_OFFSET": [0.0, -6.0]
+			},
+			"Fire": {
+				"WING_OFFSET": [4.0, 5.0],
+				"HAMMER_OFFSET": [0.0, -6.0]
+			},
+			"Superball": {
+				"WING_OFFSET": [4.0, 5.0],
+				"HAMMER_OFFSET": [0.0, -6.0]
+			}
+		},
+		
+		"POWER_PARAMETERS": {
+           		 "Fire": {
+					"PROJ_TYPE": "res://Scenes/Prefabs/Entities/Objects/WrenchProjectile",
+					"MAX_PROJ_COUNT": 3,
+					"PROJ_LIFETIME": 2.5,
+					"PROJ_GRAVITY": 1.5,
+					"PROJ_SPEED": [200.0, 0.0],
+					"PROJ_GROUND_BOUNCE": false,
+					"PROJ_WALL_BOUNCE": false,
+					"PROJ_CEIL_BOUNCE": false,
+					"PROJ_PIERCE_COUNT": 5,
+					"PROJ_BOUNCE_COUNT": 1
+         		   },
+				   
+				 "Superball": {
+					"MAX_PROJ_COUNT": 2,
+					"PROJ_LIFETIME": 2.5,
+					"PROJ_GRAVITY": 1.5,
+					"PROJ_SPEED": [200.0, 0.0],
+					"PROJ_GROUND_BOUNCE": true,
+					"PROJ_WALL_BOUNCE": true,
+					"PROJ_CEIL_BOUNCE": false,
+					"PROJ_PIERCE_COUNT": 5,
+					"PROJ_BOUNCE_COUNT": 2
+         		   }
 		}
 	}
 }

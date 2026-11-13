@@ -9,7 +9,10 @@
 			},
 			"Fire": {
 				"COLLISION_SIZE": [8, 20]
-			}
+			},
+			"Superball": {
+				"COLLISION_SIZE": [8, 20]
+			},
 		},
 		"CLASSIC_PARAMETERS": {
 			"Default": {},
@@ -28,9 +31,22 @@
 		},
 		"COSMETIC_PARAMETERS": {
 			"Default": {},
-			"Small": {},
-			"Big": {},
-			"Fire": {}
+			"Small": {
+				"WING_OFFSET": [2.0, 8.0],
+				"HAMMER_OFFSET": [1.0, -4.0]
+			},
+			"Big": {
+				"WING_OFFSET": [4.0, 5.0],
+				"HAMMER_OFFSET": [0.0, -6.0]
+			},
+			"Fire": {
+				"WING_OFFSET": [4.0, 5.0],
+				"HAMMER_OFFSET": [0.0, -6.0]
+			},
+			"Superball": {
+				"WING_OFFSET": [4.0, 5.0],
+				"HAMMER_OFFSET": [0.0, -6.0]
+			}
 		},
 		
 		"POWER_PARAMETERS": {

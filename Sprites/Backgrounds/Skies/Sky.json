@@ -3,21 +3,9 @@
 	"variations": {
 		"Day": {
 			"default": {"source": "DaySky.png"},
-			"Underground": {
-				"SMB1": {"source": "TheVoid.png"},
-				"SMBLL": {"source": "TheVoidLL.png"},
-				"SMBANN": {"link": "SMBLL"}
-			},
-			"Beach": {
-				"SMB1": {"source": "BeachSky.png"},
-				"SMBLL": {"source": "BeachSkyLL.png"},
-				"SMBANN": {"link": "SMBLL"}
-			},
-			"Autumn": {
-				"SMB1": {"source": "AutumnSky.png"},
-				"SMBLL": {"source": "AutumnSkyLL.png"},
-				"SMBANN": {"link": "SMBLL"}
-			},
+			"Underground": {"source": "TheVoid.png"},
+			"Beach": {"source": "BeachSky.png"},
+			"Autumn": {"source": "AutumnSky.png"},
 			"Space": {
 				"source": "SpaceStars.png",
 				"properties": {"sky_scroll_speed": 0},
@@ -32,16 +20,11 @@
 					}
 				}
 			},
-			"Volcano": {
-				"SMB1": {"source": "VolcanoSky.png"},
-				"SMBLL": {"source": "VolcanoSkyLL.png"}
-			},
+			"Volcano": {"source": "VolcanoSky.png"},
 			"GhostHouse": {"link": "Underground"}
 		},
 		"Night": {
-			"default": {
-				"source": "NightStars.png",
-			},
+			"default": {"source": "NightStars.png",},
 			"Space": {
 				"source": "SpaceStars.png",
 				"properties": {"sky_scroll_speed": 0},

@@ -24,6 +24,11 @@
 			"speed": 5,
 			"loop": true
 		},
+		"LookUp": {
+			"frames": [[192, 0, 32, 32]],
+			"speed": 5,
+			"loop": true
+		},
 		"SwimIdle": {
 			"frames": [
 				[224, 0, 32, 32],
