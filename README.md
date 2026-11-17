@@ -21,13 +21,13 @@ themes planned
 4. castle - nether fortress 
 
 5. desert - desert
-6. beach - beach/sugar cane
+6. beach - beach
 7. snow - tundra
 8. garden - birch forest
 9. forest - dark oak forest
 10. mountain - mountain 
 11. autumn - dapple forest
-12. sky - aether?
+12. sky - aether
 13. volcano - nether
 14. underwater castle - ocean monument 
 15. ghost house - woodland mansion
