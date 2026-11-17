@@ -19,27 +19,13 @@
 			"speed": 5,
 			"loop": true
 		},
-		"Fall": {
-			"frames": [
-				[128, 64, 32, 32],
-				[160, 64, 32, 32],
-				[192, 64, 32, 32]
-			],
-			"speed": 5,
-			"loop": true
-		},
 		"Skid": {
 			"frames": [[160, 0, 32, 32]],
 			"speed": 5,
 			"loop": true
 		},
-		"Jump": {
+		"LookUp": {
 			"frames": [[192, 0, 32, 32]],
-			"speed": 5,
-			"loop": true
-		},
-		"JumpFall": {
-			"frames": [[96, 64, 32, 32]],
 			"speed": 5,
 			"loop": true
 		},
@@ -95,17 +81,17 @@
 			"loop": true
 		},
 		"Die": {
-			"frames": [[224, 64, 32, 32]],
+			"frames": [[96, 64, 32, 32]],
 			"speed": 5,
 			"loop": true
 		},
 		"FaceForward": {
-			"frames": [[0, 96, 32, 32]],
+			"frames": [[128, 64, 32, 32]],
 			"speed": 5,
 			"loop": true
 		},
 		"Pose": {
-			"frames": [[32, 96, 32, 32]],
+			"frames": [[160, 64, 32, 32]],
 			"speed": 5,
 			"loop": true
 		}

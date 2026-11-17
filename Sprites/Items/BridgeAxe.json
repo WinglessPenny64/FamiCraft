@@ -11,16 +11,5 @@
 			"loop": true
 		}
 	},
-	"variations": {
-		"default": {
-			"SMB1": {
-				"source": "BridgeAxe.png",
-				"rect": [0, 0, 64, 24]
-			},
-			"SMBANN": {
-				"source": "DiscoAxe.png",
-				"rect": [0, 0, 64, 24]
-			}
-		}
-	}
+	"variations": {"source": "BridgeAxe.png"}
 }

@@ -24,15 +24,5 @@
 			"loop": false
 		}
 	},
-	"variations": {
-			"SMB1": {
-				"source": "Doors.png",
-				"rect": [0, 0, 64, 32]
-			},
-			"SMBLL": {
-				"source": "LLDoors.png",
-				"rect": [0, 0, 64, 32]
-			},
-			"SMBANN": {"link": "SMBLL"}
-	}
+	"variations": {"source": "Doors.png"}
 }

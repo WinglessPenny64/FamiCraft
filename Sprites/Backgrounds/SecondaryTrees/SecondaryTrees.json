@@ -14,7 +14,6 @@
 				"Day": {"source": "SnowTrees.png"},
 				"Night": {"source": "SnowNightTrees.png"}
 			},
-		"Jungle": {"source": "NightTrees.png"},
 		"Beach": {
 				"Day": {"source": "BeachTrees.png"},
 				"Night": {"source": "BeachNightTrees.png"}
@@ -34,6 +33,7 @@
 					"properties": {"can_tree_tint": false}
 				}
 			},
+		"Pipeland": {"source": "PipelandTrees.png"},
 		"Volcano": {"source": "VolcanoTrees.png"},
 		"GhostHouse": {"link": "Underground"},
 		"Castle": {

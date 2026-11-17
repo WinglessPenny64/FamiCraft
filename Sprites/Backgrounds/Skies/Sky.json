@@ -5,7 +5,8 @@
 			"default": {"source": "DaySky.png"},
 			"Underground": {"source": "TheVoid.png"},
 			"Beach": {"source": "BeachSky.png"},
-			"Autumn": {"source": "AutumnSky.png"},
+			"Autumn": {"link": "Beach"},
+			"Pipeland": {"link": "Underground"},
 			"Space": {
 				"source": "SpaceStars.png",
 				"properties": {"sky_scroll_speed": 0},
@@ -13,9 +14,26 @@
 					"default": {
 						"frames": [
 							[0, 0, 512, 512],
+							[0, 0, 512, 512],
+							[0, 0, 512, 512],
+							[0, 0, 512, 512],
+							[0, 0, 512, 512],
+							[0, 0, 512, 512],
+							[0, 0, 512, 512],
+							[0, 0, 512, 512],
+							[0, 0, 512, 512],
+							[0, 0, 512, 512],
+							[0, 0, 512, 512],
+							[0, 0, 512, 512],
+							[0, 0, 512, 512],
+							[0, 0, 512, 512],
+							[0, 0, 512, 512],
+							[0, 0, 512, 512],
+							[512, 0, 512, 512],
+							[1024, 0, 512, 512],
 							[512, 0, 512, 512]
 						],
-						"speed": 5,
+						"speed": 10,
 						"loop": true
 					}
 				}
@@ -25,6 +43,8 @@
 		},
 		"Night": {
 			"default": {"source": "NightStars.png",},
+			"Underground": {"source": "TheVoid.png"},
+			"Pipeland": {"link": "Underground"},
 			"Space": {
 				"source": "SpaceStars.png",
 				"properties": {"sky_scroll_speed": 0},
@@ -32,13 +52,30 @@
 					"default": {
 						"frames": [
 							[0, 0, 512, 512],
+							[0, 0, 512, 512],
+							[0, 0, 512, 512],
+							[0, 0, 512, 512],
+							[0, 0, 512, 512],
+							[0, 0, 512, 512],
+							[0, 0, 512, 512],
+							[0, 0, 512, 512],
+							[0, 0, 512, 512],
+							[0, 0, 512, 512],
+							[0, 0, 512, 512],
+							[0, 0, 512, 512],
+							[0, 0, 512, 512],
+							[0, 0, 512, 512],
+							[0, 0, 512, 512],
+							[0, 0, 512, 512],
+							[512, 0, 512, 512],
+							[1024, 0, 512, 512],
 							[512, 0, 512, 512]
 						],
-						"speed": 5,
+						"speed": 10,
 						"loop": true
 					}
 				}
-			}
+			},
 		}
 	}
 }

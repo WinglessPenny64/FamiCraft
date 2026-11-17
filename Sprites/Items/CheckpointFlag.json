@@ -25,6 +25,9 @@
 		"Castle": {
 			"source": "CheckpointFlag.png",
 			"rect": [0, 32, 128, 32]
-			}
+			},
+		"Space": {"link": "Castle"},
+		"Volcano": {"link": "Castle"},
+		"Airship": {"link": "Castle"}
 	}
 }

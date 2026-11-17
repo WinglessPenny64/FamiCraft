@@ -2,19 +2,11 @@
 	"variations": {
 		"Day": {
 			"default": {"source": "CloudOverlay.png"},
-			"Underground": {"source": "UndergroundCloudOverlay.png"},
-			"Beach": {"source": "BeachCloudOverlay.png"},
-			"Autumn": {"source": "AutumnCloudOverlay.png"},
-			"Space": {"source": "NightCloudOverlay.png"},
-			"Volcano": {"source": "VolcanoCloudOverlay.png"},
-			"GhostHouse": {"link": "Underground"}
+			"Pipeland": {"source": "NOCloudOverlay.png"}
 		},
 		"Night": {
 			"default": {"source": "NightCloudOverlay.png"},
-			"Underground": {"source": "UndergroundCloudOverlay.png"},
-			"Autumn": {"source": "AutumnNightCloudOverlay.png"},
-			"Volcano": {"source": "VolcanoCloudOverlay.png"},
-			"GhostHouse": {"link": "Underground"}
+			"Pipeland": {"source": "NOCloudOverlay.png"}
 		}
 	}
 }
