@@ -5,6 +5,10 @@
 				"Day": {"source": "Trees.png"},
 				"Night": {"source": "NightTrees.png"}
 			},
+		"Garden": {
+				"Day": {"source": "GardenTrees.png"},
+				"Night": {"source": "GardenNightTrees.png"}
+			},
 		"Underground": {"source": "UndergroundTrees.png"},
 		"Desert": {
 				"Day": {"source": "DesertTrees.png"},

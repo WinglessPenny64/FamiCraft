@@ -16,7 +16,7 @@
 		"Talk": {"link": "Await"}
 	},
 	"variations": {
-		"SMB1": {
+		"default": {
 			"choices": [
 				{
 					"source": "ToadNPC.png",
@@ -44,70 +44,6 @@
 				},
 				{
 					"source": "ToadNPC.png",
-					"rect": [32, 64, 32, 32]
-				}
-			]
-		},
-		"SMBLL": {
-			"choices": [
-				{
-					"source": "ToadNPCLL.png",
-					"rect": [0, 0, 32, 32]
-				},
-				{
-					"source": "ToadNPCLL.png",
-					"rect": [0, 32, 32, 32]
-				},
-				{
-					"source": "ToadNPCLL.png",
-					"rect": [0, 64, 32, 32]
-				},
-				{
-					"source": "ToadNPCLL.png",
-					"rect": [0, 96, 32, 32]
-				},
-				{
-					"source": "ToadNPCLL.png",
-					"rect": [32, 0, 32, 32]
-				},
-				{
-					"source": "ToadNPCLL.png",
-					"rect": [32, 32, 32, 32]
-				},
-				{
-					"source": "ToadNPCLL.png",
-					"rect": [32, 64, 32, 32]
-				}
-			]
-		},
-		"SMBS": {
-			"choices": [
-				{
-					"source": "ToadNPCSP.png",
-					"rect": [0, 0, 32, 32]
-				},
-				{
-					"source": "ToadNPCSP.png",
-					"rect": [0, 32, 32, 32]
-				},
-				{
-					"source": "ToadNPCSP.png",
-					"rect": [0, 64, 32, 32]
-				},
-				{
-					"source": "ToadNPCSP.png",
-					"rect": [0, 96, 32, 32]
-				},
-				{
-					"source": "ToadNPCSP.png",
-					"rect": [32, 0, 32, 32]
-				},
-				{
-					"source": "ToadNPCSP.png",
-					"rect": [32, 32, 32, 32]
-				},
-				{
-					"source": "ToadNPCSP.png",
 					"rect": [32, 64, 32, 32]
 				}
 			]
