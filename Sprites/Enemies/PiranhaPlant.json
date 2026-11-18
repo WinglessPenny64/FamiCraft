@@ -10,13 +10,7 @@
 		}
 	},
 	"variations": {
-			"SMB1": {
 				"source": "PiranhaPlant.png",
 				"rect": [0, 0, 32, 24]
-			},
-			"SMBANN": {
-				"source": "DiscoPiranha.png",
-				"rect": [0, 0, 32, 24]
 			}
-	}
 }

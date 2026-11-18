@@ -15,8 +15,5 @@
 			"loop": true
 		}
 	},
-	"variations": {
-			"SMB1": {"source": "Goomba.png"},
-			"SMBANN": {"source": "DiscoGoomba.png"}
-		}
+	"variations": {"source": "Goomba.png"}
 }
